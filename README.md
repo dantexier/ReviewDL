@@ -16,4 +16,4 @@ Búsquedas
 ### Syllabus:
 * Busqueda_02, realizada el 10 de mayo del 2016:
 	`(TITLE-ABS-KEY((Syllabus) AND ("digital library" OR "institutional repository"))) AND (education) AND ( LIMIT-TO(SUBJAREA,"COMP" ) )`
-* Resultados obtenidos en la Busqueda_02: 11 ítems en el archivo *"syllabus-2016.csv"*
+* Resultados obtenidos en la Busqueda_02: 11 ítems en el archivo **"syllabus-2016.csv"**
