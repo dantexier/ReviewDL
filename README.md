@@ -1,7 +1,5 @@
 # ReviewDL
 Review about curriculum DL &amp; Computer Sciece
-
-Review of the Resource Representation in Institutional Repository
 ========
 
 There are two groups of queries that have been made in **Scopus**, on November 5, 2014. The first group called *Problems of Elements* (**PE**), and the second group called *Problems of Process* (**PP**)
@@ -10,22 +8,13 @@ There are two groups of queries that have been made in **Scopus**, on November 5
 First Group PE
 --------
 
-* types OR resources:
-	`TITLE-ABS-KEY((resource* OR type*) AND problem* AND ("digital librar*" OR "institucional repositor*")) AND ( LIMIT-TO(DOCTYPE,"ar" ) OR LIMIT-TO(DOCTYPE,"re" ) ) AND ( LIMIT-TO(SUBJAREA,"COMP" ) OR LIMIT-TO(SUBJAREA,"SOCI" ) ) AND ( LIMIT-TO(EXACTKEYWORD,"Digital libraries" ) OR LIMIT-TO(EXACTKEYWORD,"Digital library" ) )`
-
-Busqueda_01
-10 de mayo del 2016:
-	'(TITLE-ABS-KEY((curriculum OR curricula) AND ("digital library" OR "institutional repository"))) AND (education) AND ( LIMIT-TO(SUBJAREA,"COMP" ) )'
+* Busqueda_01, realizada el 10 de mayo del 2016:
+	`(TITLE-ABS-KEY((curriculum OR curricula) AND ("digital library" OR "institutional repository"))) AND (education) AND ( LIMIT-TO(SUBJAREA,"COMP" ) )`
 132
 
-Busqueda_02
-10 de mayo del 2016:
-	'(TITLE-ABS-KEY((Syllabus) AND ("digital library" OR "institutional repository"))) AND (education) AND ( LIMIT-TO(SUBJAREA,"COMP" ) )'
+* Busqueda_01, realizada el 10 de mayo del 2016:
+	`(TITLE-ABS-KEY((Syllabus) AND ("digital library" OR "institutional repository"))) AND (education) AND ( LIMIT-TO(SUBJAREA,"COMP" ) )`
 11
-Syllabi
-Second Group PP
---------
-
 ### Ingest process:
 
 * `TITLE-ABS-KEY(ingest* AND problem* AND (resource* OR type*) AND ("digital librar*" OR "institucional repositor*"))`
